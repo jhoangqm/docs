@@ -345,7 +345,7 @@ FAILOVER_IP
 You now need to restart your interface:
 
 ```sh
-/etc/init.d/ipaliases restart
+/etc/init.d/network restart
 ```
 
 
